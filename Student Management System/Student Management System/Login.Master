@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Login.master.cs" Inherits="Student_Management_System.Login" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head id="Head1" runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            font-family: Calibri;
+        }
+        .style2
+        {
+            text-align: center;
+            font-family: Calibri;
+        }
+        .style3
+        {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <div id="header" style="text-align: right; border-bottom: 10px solid blue" class="style1">
+        <h1 class="style3">
+        Student Management System</h1>
+    </div>  
+    <div id="Left" 
+        style="height: 790px; width: 140px; float:left; font-family: Calibri; border-right: 10px solid blue">
+    </div>
+    <div id="right" 
+        style="height: 790px; width: 140px; float:right; font-family: Calibri; border-left: 10px solid blue">
+    </div>
+    
+
+<div id="pagecontent"
+        style="margin-top: 19px; margin-left: 180px; margin-right: 180px" class="style2">
+        <asp:ContentPlaceHolder ID="LoginBox" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <div id="footer" style="border-top: 10px solid blue; margin-top: 700px">
+    <h4 class="style2">4wisemonkeys.org 2012 v0.1</h4>
+    </div>
+    </form>
+</body>
+
+</html>

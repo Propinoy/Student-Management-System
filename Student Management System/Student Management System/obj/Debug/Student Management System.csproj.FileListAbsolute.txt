@@ -1,0 +1,30 @@
+C:\Users\Julian\Documents\QUT\2012\Scalable Systems Development\Student Management System\Student Management System\bin\Student Management System.dll
+C:\Users\Julian\Documents\QUT\2012\Scalable Systems Development\Student Management System\Student Management System\bin\Student Management System.pdb
+C:\Users\Julian\Documents\QUT\2012\Scalable Systems Development\Student Management System\Student Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Julian\Documents\QUT\2012\Scalable Systems Development\Student Management System\Student Management System\obj\Debug\Student Management System.dll
+C:\Users\Julian\Documents\QUT\2012\Scalable Systems Development\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\Blake\Dropbox\QUT\INB201 Scalable Systems Development\Project\Site files\Student Management System\Student Management System\bin\Student Management System.dll
+C:\Users\Blake\Dropbox\QUT\INB201 Scalable Systems Development\Project\Site files\Student Management System\Student Management System\bin\Student Management System.pdb
+C:\Users\Blake\Dropbox\QUT\INB201 Scalable Systems Development\Project\Site files\Student Management System\Student Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Blake\Dropbox\QUT\INB201 Scalable Systems Development\Project\Site files\Student Management System\Student Management System\obj\Debug\Student Management System.dll
+C:\Users\Blake\Dropbox\QUT\INB201 Scalable Systems Development\Project\Site files\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\Julian\Dropbox\Project\Site files\Student Management System\Student Management System\bin\Student Management System.dll
+C:\Users\Julian\Dropbox\Project\Site files\Student Management System\Student Management System\bin\Student Management System.pdb
+C:\Users\Julian\Dropbox\Project\Site files\Student Management System\Student Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Julian\Dropbox\Project\Site files\Student Management System\Student Management System\obj\Debug\Student Management System.dll
+C:\Users\Julian\Dropbox\Project\Site files\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\John\Desktop\Uni assignments\Semester 5\Scalable Systems\Updating Folder\Site files\Student Management System\Student Management System\bin\Student Management System.dll
+C:\Users\John\Desktop\Uni assignments\Semester 5\Scalable Systems\Updating Folder\Site files\Student Management System\Student Management System\bin\Student Management System.pdb
+C:\Users\John\Desktop\Uni assignments\Semester 5\Scalable Systems\Updating Folder\Site files\Student Management System\Student Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\Uni assignments\Semester 5\Scalable Systems\Updating Folder\Site files\Student Management System\Student Management System\obj\Debug\Student Management System.dll
+C:\Users\John\Desktop\Uni assignments\Semester 5\Scalable Systems\Updating Folder\Site files\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\Blake Thornton\Dropbox\QUT\INB201 Scalable Systems Development\Project\Site files\Student Management System\Student Management System\bin\Student Management System.dll
+C:\Users\Blake Thornton\Dropbox\QUT\INB201 Scalable Systems Development\Project\Site files\Student Management System\Student Management System\bin\Student Management System.pdb
+C:\Users\Blake Thornton\Dropbox\QUT\INB201 Scalable Systems Development\Project\Site files\Student Management System\Student Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Blake Thornton\Dropbox\QUT\INB201 Scalable Systems Development\Project\Site files\Student Management System\Student Management System\obj\Debug\Student Management System.dll
+C:\Users\Blake Thornton\Dropbox\QUT\INB201 Scalable Systems Development\Project\Site files\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\John\Dropbox\Project\Site files\Student Management System\Student Management System\bin\Student Management System.dll
+C:\Users\John\Dropbox\Project\Site files\Student Management System\Student Management System\bin\Student Management System.pdb
+C:\Users\John\Dropbox\Project\Site files\Student Management System\Student Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Dropbox\Project\Site files\Student Management System\Student Management System\obj\Debug\Student Management System.dll
+C:\Users\John\Dropbox\Project\Site files\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
